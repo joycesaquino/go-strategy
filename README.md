@@ -1,2 +1,2 @@
-# go-strategy
+# Go Strategy
 Tratando estratégias em Go
